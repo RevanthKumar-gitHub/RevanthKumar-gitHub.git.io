@@ -1,0 +1,131 @@
+*
+{
+    margin:none;
+    padding:none;
+    font-family:sans-serif;
+}
+.logo
+{
+    font-size:3em;
+    font-family: cursive;
+}
+form
+{
+    box-shadow:black 0px 0px 2px 0.1px;
+    margin:0 auto;
+    width:25%;
+    padding:3% 2%;
+}
+
+.h1
+{
+    font-size:2em;
+    margin:8px 0px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+label
+{
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size:0.9em;
+}
+
+
+input,button,select
+{
+    background:white;
+    outline:none;
+    border:black 1px solid;
+    margin:4px 0px 10px 0px;
+    width:100%;
+    padding:2px 4px;
+}
+input:hover
+{
+    box-shadow:orange 0px 0px 5px 2px;
+}
+.code
+{
+    width:18%;
+}
+.mobile
+{
+    width:80%;
+}
+
+button
+{
+    background:rgba(255, 166, 0, 0.788);
+    font-weight: bold;
+    box-shadow: black 0px 0px 0px 0.2px;
+}
+
+button:hover
+{
+    background:rgb(255, 166, 0);
+}
+
+a
+{
+    text-decoration:none;
+    font-size:1.3em;
+    color:black;
+}
+
+.pass,.desc
+{
+    font-size:0.9em;
+    margin:4px 0px;
+    font-family:monospace;
+}
+p
+{
+    font-size: 0.9em;
+}
+
+.a{
+    text-decoration: none;
+    color:blue;
+    font-size: 0.9em;
+}
+
+.forget
+{
+    text-decoration: none;
+    color:blue;
+    font-size: 0.9em;
+    float: right;
+}
+
+.new
+{
+    border:solid 2px rgba(136, 133, 133, 0.692);
+    position: relative;
+    top:9px;
+    border-style: solid none none;
+    width:35%;
+}
+.newr
+{
+    border:solid 2px rgba(136, 133, 133, 0.692);
+    border-style: solid none none;
+    width:35%;
+    position: relative;
+    bottom:9px;
+    float: right;
+}
+.signup,.signup:hover
+{
+    background-color: rgba(136, 133, 133, 0.692);
+    border: solid 0.5px;
+    box-shadow: none;
+}
+
+.next
+{
+    font-size: 0.8em;
+    color: rgba(136, 133, 133, 0.692);
+}
+

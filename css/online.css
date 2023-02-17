@@ -3,7 +3,7 @@
     margin:0px;
     padding:0px;
     font-family:sans-serif;
-    color:white;
+    color:rgb(255, 255, 255);
 }
 
 body
@@ -174,4 +174,16 @@ h2
 p,i{
     color:orange;
     font-family: cursive;
+}
+
+.catlog
+{
+    /* background-color: red; */
+    position: relative;
+    top: 60px;
+}
+.catlog div
+{
+    margin-left: 20px;
+    display: flex;
 }
